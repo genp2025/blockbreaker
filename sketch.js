@@ -6,7 +6,7 @@ function preload() {
   ballImg = loadImage('assets/ball.png');
   blockImg = loadImage('assets/block_normal.png');
   blockBrokenImg = loadImage('assets/block_broken.png');
-  bgImg = loadImage('assets/background.jpg');
+  bgImg = loadImage('assets/background_2.jpg');
 }
 
 function setup() {
