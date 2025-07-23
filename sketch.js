@@ -5,7 +5,7 @@ function preload() {
   paddleImg = loadImage('assets/paddle.png');
   ballImg = loadImage('assets/ball.png');
   blockImg = loadImage('assets/block_normal.png');
-  blockBrokenImg = loadImage('assets/block_broken.png');
+  blockBrokenImg = loadImage('assets/block_broken_2.png');
   bgImg = loadImage('assets/background_2.jpg');
 }
 
